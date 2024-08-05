@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+    border:solid blue;
+    text-rendering: geometricPrecision;
+
+
+
+
+    
+
+}
+
+img{
+    padding-left: 350px;
+    padding-top: 100px;
+    border-radius: 60px;
+}
+p1{
+    text-align: center;
+    text-align: justify;
+}
+p2{
+    text-align: justify;
+}
+#p3{
+    text-align: justify;}
+
+    #videobox{
+        width: 100%;
+        height: 100vh;
+        overflow: hidden;
+    }
+
+    .video{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    main{
+        position: absolute;
+        padding-left: 700px;
+    }
+    video{
+        padding-left: 700px;
+        padding-right: 300px;
+    }
